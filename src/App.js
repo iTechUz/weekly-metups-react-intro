@@ -11,6 +11,7 @@ function App() {
       <Todo text="Explore The full React course" />
       <Modal/>
       <Backdrop/>
+
     </div>
   );
 }
