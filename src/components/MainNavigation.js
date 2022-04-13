@@ -14,7 +14,7 @@ const MainNavigation = () => {
                         <a to='/new-meetups'>Add New Meetups</a>
                     </li>
                     <li>
-                        <a to='/new-meetups'>My Favorites</a>
+                        <a to='/new-meetups'>My Favoritess</a>
                     </li>
                 </ul>
             </nav>
